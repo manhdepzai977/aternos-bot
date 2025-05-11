@@ -1,2 +1,3 @@
-git clone https://github.com/tenban/aternos-bot.git
-cd aternos-bot
+git add .
+git commit -m "Add Aternos bot"
+git push origin main
